@@ -563,6 +563,7 @@ http://behat.org/en/latest/guides.html
 
 
 # techblog
+- https://explainextended.com/
 - http://blog.vgod.tw/2011/01/31/diving-code-11/?variant=zh-tw
 - http://www.yangguo.info/
 - http://antirez.com/latest/0
