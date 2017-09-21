@@ -2,6 +2,8 @@
 - http://www.pdfdrive.net/
 - https://docschina.org/
 
+# blockchain
+- https://speakerdeck.com/changwu/qu-kuai-lian-nei-bu-pei-xun
 
 # coding
 - https://news.ycombinator.com/item?id=14709076
