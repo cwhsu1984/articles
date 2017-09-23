@@ -307,6 +307,8 @@ http://stackoverflow.com/questions/26050899/how-to-mount-host-volumes-into-docke
 - https://moto.debian.tw/viewtopic.php?f=11&t=17208
 - http://ibookmen.blogspot.tw/2010/11/unix-2.html
 
+## parallel
+- http://www.pixelbeat.org/docs/unix-parallel-tools.html
 
 # nginx
 - https://www.if-not-true-then-false.com/2011/nginx-and-php-fpm-configuration-and-optimizing-tips-and-tricks/
