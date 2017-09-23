@@ -10,6 +10,10 @@
 - https://jacquesmattheij.com/improving-a-legacy-codebase?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=website
 - http://happycoder.org/2017/01/27/learning-coding-programming-tutorial-and-resource/
 
+# webpack
+## performance
+- https://redfin.engineering/tech-talk-recap-how-to-improve-webpack-performance-in-large-projects-5435bb18dd18
+
 # redis
 - https://tachingchen.com/tw/blog/Redis-Data-Persistence/
 
