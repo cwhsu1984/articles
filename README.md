@@ -26,6 +26,10 @@
 # cache
 - https://hackmd.io/KwZghgRgLADKC0BTAJgDgOzygJhN+qi2AbPAJwTGphgBmMEIIEQA?view
 
+# bash
+## geopts
+https://stackoverflow.com/questions/16483119/example-of-how-to-use-getopts-in-bash
+
 # http
 ## ssl
 - http://blog.yogo.tw/2009/11/ssl.html?m=1
