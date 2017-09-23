@@ -129,6 +129,9 @@ https://stackoverflow.com/questions/16483119/example-of-how-to-use-getopts-in-ba
 - http://www.thegeekstuff.com/2012/02/xss-attack-examples/?utm_source=tuicool
 - https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-XSS-Protection
 
+# socketio
+## game
+- https://github.com/sgoedecke/socket-io-game/blob/master/BLOG.md
 
 # jwt
 - https://www.toptal.com/web/cookie-free-authentication-with-json-web-tokens-an-example-in-laravel-and-angularjs
