@@ -257,6 +257,12 @@ https://codereviewvideos.com/course/composer/video/require-vs-require-dev
 - http://softwareengineering.stackexchange.com/questions/40313/is-a-single-config-object-a-bad-idea
 - https://www.sitepoint.com/disco-with-frameworks-and-design-patterns-a-fresh-look-at-dependency-injection/
 
+## async-event-loop
+- https://medium.com/async-php/event-loops-84978080389c
+- https://github.com/asyncphp/doorman
+- https://github.com/icicleio/icicle
+- https://github.com/reactphp/event-loop
+
 # account-system
 - https://www.troyhunt.com/passwords-evolved-authentication-guidance-for-the-modern-era/
 - https://blog.plan99.net/building-account-systems-f790bf5fdbe0
@@ -280,7 +286,6 @@ https://marmelab.com/blog/2014/09/10/make-docker-command.html
 
 ## volume
 http://stackoverflow.com/questions/26050899/how-to-mount-host-volumes-into-docker-containers-in-dockerfile-during-build
-
 
 # mlm
 - https://www.slideshare.net/billkarwin/models-for-hierarchical-data
