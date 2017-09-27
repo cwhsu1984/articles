@@ -17,6 +17,9 @@
 # redis
 - https://tachingchen.com/tw/blog/Redis-Data-Persistence/
 
+# design-pattern
+- https://sourcemaking.com/design_patterns
+
 # scaling
 - http://highscalability.com/blog/2016/5/11/performance-and-scaling-in-enterprise-systems.html
 
