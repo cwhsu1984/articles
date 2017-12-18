@@ -229,6 +229,7 @@ https://codereviewvideos.com/course/composer/video/require-vs-require-dev
 
 ## security
 - https://www.owasp.org/index.php/PHP_Security_Cheat_Sheet
+- https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software
 - https://github.com/exakat/php-static-analysis-tools
 - https://github.com/squizlabs/PHP_CodeSniffer
 - https://github.com/FloeDesignTechnologies/phpcs-security-audit
